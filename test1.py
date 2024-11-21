@@ -6,3 +6,4 @@ print(a)
 y = 8
 c = b- y
 
+f = 0
