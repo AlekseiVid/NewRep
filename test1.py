@@ -5,6 +5,5 @@ b = 66
 print(a)
 y = 8
 c = b- y
-o = 'iiiiiiiiii'
 
-iii= 'kjkj'
+g =9
